@@ -23,3 +23,9 @@ frustrated, or c) have no effect?
 Basically I just need a little bit of an extension to allow for experiment design, and then
 a backend to collect answers (coming soon, at formious.com).
 
+### Credits
+
+Almost forgot! Wouldn't have been possible without the absolutely awesome .ai output plugin 
+by [these guys: MIX Online Lab](http://visitmix.com/labs/ai2canvas/). I will be definitely
+using your tool in other projects.
+
