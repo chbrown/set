@@ -1,0 +1,2 @@
+.card{border-radius:5px;padding:15px;margin:12px;box-shadow:0 0 5px #000;display:inline-block;width:276px;text-align:center}.card canvas{margin:5px 10px}
+.card.selected{background-color:#000;box-shadow:0 0 10px rgba(30,107,82,0.4)}
